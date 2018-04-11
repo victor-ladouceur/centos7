@@ -1,6 +1,6 @@
 # Open source Centos 7 docker image
 
-This Centos image is based on the official one, just adding some stuff !
+This Centos image is based on the official one, just upgrading system packages !
 
 ---
 
